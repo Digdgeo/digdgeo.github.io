@@ -9,7 +9,7 @@
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About Me</a></li>
+	        	<li><a href="/about.html">About Me</a></li>
         		<li><a href="http://last-ebd.blogspot.com.es/">Blog</a></li>
 			<li><a href="http://www.ebd.csic.es/laboratorio-sig-y-teledeteccion-last">LAST</a></li>
 			<li><a href="https://twitter.com/mopayyo">Twitter</a></li>
@@ -18,7 +18,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Just testing About!</h1>
-				<p>If everything is gonna be allrigth <em>this will be</em> the success history about me <a href="/">Pythoning in Doñana...</a></p>
+				<p>If everything is gonna be allrigth <em>this will be</em> the success history about me <a href="/about">Pythoning in Doñana...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
